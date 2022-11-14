@@ -1,5 +1,4 @@
 attrs==22.1.0
-aws-cfn-bootstrap==2.0
 docutils==0.14
 exceptiongroup==1.0.1
 importlib-metadata==5.0.0
